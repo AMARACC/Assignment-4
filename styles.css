@@ -1,0 +1,19 @@
+html{
+    font-size: 30px;
+}
+.one{
+    color: coral;
+}
+.two{
+    font-size: 2rem;
+}
+.three{
+    font-weight: 900;
+}
+.four{
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+}
+.five{
+    text-align: right;
+}
