@@ -12,6 +12,8 @@ html{
 }
 .four{
     font-family: 'Caveat', cursive;
+    /* not sure if adding the font weight of (400) was necessary because the linked font is already (caveat regular 
+    400) but when I added the "font-weight: 400;",nothing changed */
     font-weight: 400;
 }
 .five{
